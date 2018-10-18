@@ -25,6 +25,8 @@ import KeyboardSpaceView from 'react-native-keyboard-spacer-view';
 </KeyboardSpaceView>
 ```
 
+![IOS View Example](https://media.giphy.com/media/mnsx8ZNSbKCYsMlQLk/giphy.gif) 
+
 
 **Expo Snack Example**
 
