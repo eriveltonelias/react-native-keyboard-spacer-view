@@ -1,0 +1,26 @@
+{
+  "name": "react-native-keyboard-spacer-view",
+  "version": "0.0.1",
+  "description": "react native keyboard spacer view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriveltonelias/react-native-keyboard-spacer-view.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "keyboard",
+    "top",
+    "view"
+  ],
+  "author": "\"Erivelton Elias <eriveltonelias@icloud.com> (https://eriveltonelias.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriveltonelias/react-native-keyboard-spacer-view/issues"
+  },
+  "homepage": "https://github.com/eriveltonelias/react-native-keyboard-spacer-view#readme"
+}
