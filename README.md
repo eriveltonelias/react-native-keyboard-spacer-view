@@ -1,6 +1,7 @@
 # react-native-keyboard-spacer-view
 
-[![npm version](https://img.shields.io/npm/v/react-native-keyboard-spacer-view.svg)](https://www.npmjs.com/package/react-native-keyboard-spacer-view)
+[![npm version](https://img.shields.io/npm/v/react-native-keyboard-spacer-view.svg)](https://www.npmjs.com/package/react-native-keyboard-spacer-view) [![npm total downloads](https://img.shields.io/npm/dt/react-native-keyboard-spacer-view.svg)](https://www.npmjs.com/package/react-native-keyboard-spacer-view.svg)
+
 
 
 ## Installation
