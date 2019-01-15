@@ -8,7 +8,7 @@ import {
   LayoutAnimation,
 } from 'react-native';
 
-export default class KeyboardSpacerView extends React.Component {
+export default class KeyboardSpacerView extends React.PureComponent {
   static defaultProps = {
     backgroundColor: '#f6f6f6',
     extraSpace: 0,
@@ -23,10 +23,6 @@ export default class KeyboardSpacerView extends React.Component {
     if (UIManager.setLayoutAnimationEnabledExperimental) {
       UIManager.setLayoutAnimationEnabledExperimental(true);
     }
-  }
-
-  shouldComponentUpdate(nextProps, nextState) {
-    return nextState.bottom !== this.state.bottom;
   }
 
   componentDidMount() {
@@ -69,7 +65,7 @@ export default class KeyboardSpacerView extends React.Component {
     const { children, backgroundColor } = this.props;
 
     if (!children) {
-      console.warn(`Missing children on KeyboardTopView component.`);
+      console.warn(`Missing children on KeyboardSpacerView component.`);
     }
 
     return (
